@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Khmer&display=swap');
+body{
+	background-color: #F0F3F4;	
+}
+.center{
+	text-align: center;
+}
+.headingstyle{
+	font-size: 20px;
+	font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+.remark-container{
+	width: 90%;
+	margin: auto;
+}
